@@ -1,6 +1,6 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Purnama S Rahayu"
 pygmentsstyle: 'monokai'
 
 # Theme settings
@@ -15,6 +15,6 @@ social:
   instagram: "#"
   linkedin: "#"
   dribbble: "#"
-  youtube: "#"
+  # youtube: "#"
 taxonomies:
   author: authors
